@@ -1,0 +1,17 @@
+# conFusion
+---
+This repository is being used by me in a Full Stack program, which is displayed in [Coursera](https://www.coursera.org/). This program ([Full Stack Web Development with React](https://www.coursera.org/programs/80611847-2e01-4be7-ae5e-2da9b34ffc2f?collectionId=&productId=x8mwvRC8EeiB6Qq6n4PnfA&productType=s12n&showMiniModal=true)) is divided into 4 courses: 
+
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/programs/80611847-2e01-4be7-ae5e-2da9b34ffc2f?collectionId=&productId=x8mwvRC8EeiB6Qq6n4PnfA&productType=s12n&showMiniModal=true)
+- [Front-End Web Development with React](https://www.coursera.org/programs/80611847-2e01-4be7-ae5e-2da9b34ffc2f?collectionId=&productId=x8mwvRC8EeiB6Qq6n4PnfA&productType=s12n&showMiniModal=true)
+- [Multiplatform Mobile App Development with React Native](https://www.coursera.org/programs/80611847-2e01-4be7-ae5e-2da9b34ffc2f?collectionId=&productId=x8mwvRC8EeiB6Qq6n4PnfA&productType=s12n&showMiniModal=true)
+- [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/programs/80611847-2e01-4be7-ae5e-2da9b34ffc2f?collectionId=&productId=x8mwvRC8EeiB6Qq6n4PnfA&productType=s12n&showMiniModal=true)
+
+
+I am currently in the first course of the program.
+
+---
+The classes are presented by [Professor Jogesh K. Muppala](https://www.coursera.org/instructor/jmuppala), from The Hong Kong University of Science and Technology.
+
+---
+P.S. : I am a 17 year old I.T. student in CEFET-MG, from Brazil, so my English is not flawless
