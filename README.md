@@ -14,4 +14,4 @@ I am currently in the first course of the program.
 The classes are presented by [Professor Jogesh K. Muppala](https://www.coursera.org/instructor/jmuppala), from The Hong Kong University of Science and Technology.
 
 ---
-P.S. : I am a 17 year old I.T. student in CEFET-MG, from Brazil, so my English is not flawless
+*P.S. : I am a 17 year old I.T. student in CEFET-MG, from Brazil, so my English is not flawless*
