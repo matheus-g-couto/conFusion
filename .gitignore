@@ -1,1 +1,9 @@
-node_modules
+# Ignores everything in node_modules except the files used in the project
+node_modules/*
+
+!node_modules/bootstrap
+!node_modules/font-awesome
+!node_modules/bootstrap-social
+
+!node_modules/jquery
+!node_modules/popper.js
